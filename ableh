@@ -1,6 +1,12 @@
  
+#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESOFKiybUvkFuLbjTY3-UF3-ETXB5JJ9nlv671K2bbyv8OTv6-w&s" group-title="INDONESIA",GLOBAL TV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="INDONESIA",MNC TV 
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15" group-title="INDONESIA",SCTV
 http://210.210.155.35/session/6ba3ae08-99f5-11ea-b1f3-c81f66f89318/qwr9ew/s/s03/01.m3u8
@@ -50,7 +56,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/Logo-Inews.png" group-title="NEWS",INEWS 
-https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="NEWS", CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
