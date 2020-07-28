@@ -131,8 +131,6 @@ http://45.126.83.51/session/28aaac00-8ca8-11ea-88d2-be5aabb4703e/uq2663/h/h19/01
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="HIBURAN MOVIES",Sony ONE
 http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="HIBURAN MOVIES",THE INDONESIA CHANNEL
-https://tic.indonusa.net.id:8443/live/TIC.stream_720p/playlist.m3u8
  
  
  
@@ -196,7 +194,7 @@ http://livefr.cgtn.com/1000d/prog_index.m3u8
 http://45.126.83.51/qwr9ew/s/s19/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATGEO 
-http://fhr.ddns.net:25461/live/333333/333333/63399.ts
+http://136.243.177.164:80/NATIONALGEOGRAPHIC/index.m3u8?h=ykPqH2kF2-kWzzLR9tVudQ-dwXvg
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATGEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
