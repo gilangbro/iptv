@@ -12,10 +12,10 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 http://210.210.155.35/session/a53d1a04-e4dd-11ea-8855-b82a72d63267/qwr9ew/s/s03/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15" group-title="INDONESIA",Indosiar
-http://210.210.155.35/session/92df2b7c-b6ed-11ea-934d-b82a72d63267/qwr9ew/s/s04/01.m3u8
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
  
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA", ANTV HD
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
  
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w226047381_b384000_sleng.m3u8
@@ -24,7 +24,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w226047381_b384000_sle
 https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w1629552758_b384000_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="INDONESIA",NET TV 
-http://210.210.155.35/session/72f730b4-99ee-11ea-b1f3-c81f66f89318/qwr9ew/s/s08/01.m3u8
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="INDONESIA",RTV
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
@@ -194,13 +194,13 @@ http://livefr.cgtn.com/1000d/prog_index.m3u8
 http://45.126.83.51/qwr9ew/s/s19/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATGEO 
-http://136.243.177.164:80/NATIONALGEOGRAPHIC/index.m3u8?h=ykPqH2kF2-kWzzLR9tVudQ-dwXvg
+https://www.fanmingming.cn/hls/natlgeo.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATGEO People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATGEO WILD
-http://fhr.ddns.net:25461/live/333333/333333/63394.ts
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
  
  
  
@@ -270,7 +270,7 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
  
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png?v=2.0.0.13" group-title="MOVIES",AXN 
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+http://210.210.155.35/uq2663/h/h141/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",Blue Ant Entertaiment FHD
 http://45.126.83.51/dr9445/h/h16/index.m3u8
