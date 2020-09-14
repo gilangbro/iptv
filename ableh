@@ -117,16 +117,16 @@ http://45.126.83.51/uq2663/h/h28/index.m3u8
 http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="HIBURAN MOVIES",THRILL 
-http://rr2.dens.tv/s/s34/01.m3u8
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="HIBURAN MOVIES",K DRAMA 
 http://rr2.dens.tv/s/s42/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="HIBURAN MOVIES",K+ 
-http://rr.dens.tv/h/h08/index.m3u8
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
  
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_sgem_small.png?v=2.0.0.13" group-title="HIBURAN MOVIES",Sony GEM 
-http://45.126.83.51/session/28aaac00-8ca8-11ea-88d2-be5aabb4703e/uq2663/h/h19/01.m3u8
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
  
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="HIBURAN MOVIES",Sony ONE
 http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
@@ -197,7 +197,7 @@ http://45.126.83.51/qwr9ew/s/s19/01.m3u8
 https://www.fanmingming.cn/hls/natlgeo.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATGEO People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10356
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="KNOWLEDGE",NATGEO WILD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
@@ -206,7 +206,7 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
  
  
 #EXTINF:-1 tvg-logo="" group-title="KIDS",Carton Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10346
  
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="KIDS",Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -214,8 +214,8 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="KIDS",ANIMAX
 http://210.210.155.35/session/ae08a602-b6f8-11ea-934d-b82a72d63267/dr9445/h/h144/01.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",BOOMERANG
+http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/11965
  
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/0000/2172/brand.gif?QLKJtwPRDULZncLE82UdukHxr96XQwUj&itok=YlgAz1sg" group-title="KIDS",SAT 7 KIDS
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
