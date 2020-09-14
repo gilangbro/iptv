@@ -41,7 +41,7 @@ http://103.30.1.14:8080/hls/live.m3u8
  
  
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvone_small1.png?v=2.0.0.13" group-title="NEWS", TvOne
-http://103.47.132.164/PLTV/88888888/224/3221227213/index.m3u8
+https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybP_Uvb3Q_TuRJkn4Kd2Pr4U)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
  
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="NEWS",Metro TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
