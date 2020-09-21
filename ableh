@@ -361,7 +361,7 @@ https://edge.siar.us/albahjahtv/live/playlist.m3u8
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="RELIGI",RODJA TV
-http://210.210.155.35/session/bf771238-f637-11ea-aa6b-b82a72d63267/qwr9ew/s/s14/01.m3u8
+https://tv.rodja.live/live/smil:rodjatv.smil/chunklist_w2066561231_b1564000.m3u8
  
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="RELIGI", TAWAF TV
