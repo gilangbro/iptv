@@ -47,7 +47,7 @@ https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybP_Uvb3Q_TuRJkn4Kd
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
  
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="NEWS", KOMPAS TV 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600678875/ei/exdoX5DAGYL64-EP5_2XgAQ/ip/180.244.235.35/id/gIB2egm7tL8.1/source/yt_live_broadcast/requiressl/yes/tx/23932692/txs/23932692%2C23932693%2C23932694%2C23932695%2C23932696%2C23932697%2C23932698%2C23932699%2C23932700%2C23932701%2C23932702/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQ-VGGX7bt3XdoflIAKcl6FOeJPmXMqYKsvyo6pJilB0CID0xomCwMLDCuCICB5xJcs30cCaOg5mtdvnPp60kWaX4/file/index.m3u8
+http://210.210.155.35/session/460ef788-99f0-11ea-934d-b82a72d63267/qwr9ew/s/s104/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="NEWS",TVRI HD 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
