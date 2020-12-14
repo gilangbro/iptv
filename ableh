@@ -18,10 +18,10 @@ http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
 http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1850793921_b744100_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1659758021_b744100_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="INDONESIA",Trans TV
-https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w1940943041_b300100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w375871315_b744100_sleng.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="INDONESIA",NET TV 
 http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
