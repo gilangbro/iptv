@@ -120,13 +120,13 @@ http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="HIBURAN MOVIES",K DRAMA 
-http://rr2.dens.tv/s/s42/01.m3u8
+http://210.210.155.35:80/session/4bbb073a-34cf-11e9-8af5-9ad690129ed3/qwr9ew/s/s42/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png?v=2.0.0.13" group-title="HIBURAN MOVIES",K+ 
-http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+http://45.126.83.51/uq2663/h/h08/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_sgem_small.png?v=2.0.0.13" group-title="HIBURAN MOVIES",Sony GEM 
-http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
  
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1c/Sony_One.png" group-title="HIBURAN MOVIES",Sony ONE
 http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
