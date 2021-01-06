@@ -30,7 +30,7 @@ http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen
 http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=RTV
  
 #EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDONESIA",DAAI 
-http://103.130.186.138:8800/oxygenplay/daaitv/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s13/02.m3u8
  
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="INDONESIA",MYTV
 http://210.210.155.35/session/a0865eac-4e60-11eb-a83f-b82a72d63267/qwr9ew/s/s46/01.m3u8
